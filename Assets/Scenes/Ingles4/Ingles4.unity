@@ -359,7 +359,7 @@ MonoBehaviour:
     button: {fileID: 1623976247}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
-  - text: "\xBFQu\xE9 frase  muestra que  reconoces la idea  pero introduces  matizaci\xF3n? "
+  - text: Which sentence shows that you acknowledge the idea but introduce nuance?
     button: {fileID: 1841183326}
     audioClip: {fileID: 0}
     correct: 0
@@ -1397,15 +1397,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   responses:
-  - text: Que los humanos no captan la  riqueza de significados en los  cantos nocturnos
+  - text: That humans fail to grasp the richness of meanings in the nocturnal songs.
     button: {fileID: 603074382}
     audioClip: {fileID: 0}
     correct: 1
-  - text: 'Que los humanos  ignoran los cantos  porque no les  interesa '
+  - text: That humans ignore the songs because they are not interested.
     button: {fileID: 1623976247}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
-  - text: "Qu\xE9 quiere decir \"Misunderstanding them is  easy\"? "
+  - text: "It means that it\u2019s easy to misinterpret them."
     button: {fileID: 1841183326}
     audioClip: {fileID: 0}
     correct: 0
@@ -2166,15 +2166,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   responses:
-  - text: "Un fen\xF3meno natural explicado por la resonancia del aire"
+  - text: A natural phenomenon explained by the resonance of air.
     button: {fileID: 603074382}
     audioClip: {fileID: 0}
     correct: 1
-  - text: "Magia que desaf\xEDa las leyes f\xEDsicas"
+  - text: Magic that defies the laws of physics.
     button: {fileID: 1623976247}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
-  - text: "Qu\xE9 es la \"levitation\" de  las monta\xF1as? "
+  - text: "What is the \u2018levitation\u2019 of the mountains?"
     button: {fileID: 1841183326}
     audioClip: {fileID: 0}
     correct: 0
@@ -6744,16 +6744,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   responses:
-  - text: "Los \xE1rboles detectan una p\xE9rdida de claridad y prop\xF3sito en el 
-      lenguaje."
+  - text: The trees sense a loss of clarity and purpose in language.
     button: {fileID: 603074382}
     audioClip: {fileID: 0}
     correct: 1
-  - text: "Los \xE1rboles est\xE1n enfermos debido a un hongo que afecta a su corteza."
+  - text: The trees are sick due to a fungus that affects their bark.
     button: {fileID: 1623976247}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
-  - text: "\xBFQu\xE9 sugiere el Tsah\xECk sobre los \xE1rboles? "
+  - text: "What does the Tsah\xECk suggest about the trees?"
     button: {fileID: 1841183326}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
@@ -10437,8 +10436,8 @@ MonoBehaviour:
     button: {fileID: 1623976247}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
-  - text: "\xBFC\xF3mo  responder\xEDas  respetando la  postura de Karyu  y matizando
-      tu  argumento? "
+  - text: "How would you respond while respecting Karyu\u2019s position and qualifying
+      your argument?"
     button: {fileID: 1841183326}
     audioClip: {fileID: 0}
     correct: 0
@@ -10723,16 +10722,16 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   responses:
-  - text: "Cuanto m\xE1s r\xE1pido intentan medir y  controlar, m\xE1s se distancian
-      del  verdadero ritmo de la vida "
+  - text: The faster they try to measure and control, the more they distance themselves
+      from the true rhythm of life
     button: {fileID: 603074382}
     audioClip: {fileID: 0}
     correct: 1
-  - text: "Que la tecnolog\xEDa humana  funciona m\xE1s r\xE1pido que la  naturaleza "
+  - text: That human technology operates faster than nature.
     button: {fileID: 1623976247}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
-  - text: "Qu\xE9 significa \u2015Ironically, the faster  they count\u2026? "
+  - text: "What does \u2018Ironically, the faster they count\u2026\u2019 mean?"
     button: {fileID: 1841183326}
     audioClip: {fileID: 0}
     correct: 0
@@ -12069,15 +12068,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   responses:
-  - text: "El esp\xEDritu del r\xEDo est\xE1 perdiendo su armon\xEDa interior"
+  - text: The spirit of the river is losing its inner harmony.
     button: {fileID: 603074382}
     audioClip: {fileID: 0}
     correct: 1
-  - text: "El r\xEDo est\xE1 f\xEDsicamente bloqueado por una construcci\xF3n humana."
+  - text: The river is physically blocked by a human construction.
     button: {fileID: 1623976247}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
-  - text: "\xBFQu\xE9 implica realmente el Tsah\xECk sobre el estado del  r\xEDo?"
+  - text: "What does the Tsah\xECk really imply about the state of the river?"
     button: {fileID: 1841183326}
     audioClip: {fileID: 0}
     correct: 0
@@ -13015,7 +13014,7 @@ MonoBehaviour:
     button: {fileID: 1623976247}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
-  - text: "\xBFQu\xE9 frase  combina acuerdo  con matizaci\xF3n y  fluidez  avanzada? "
+  - text: Which sentence combines agreement with nuance and advanced fluency?
     button: {fileID: 1841183326}
     audioClip: {fileID: 0}
     correct: 0
@@ -20306,16 +20305,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   responses:
-  - text: "Refleja la  confusi\xF3n generalizada en la  comunicaci\xF3n y el significado
-      en  Pandora."
+  - text: It reflects the widespread confusion in communication and meaning on Pandora.
     button: {fileID: 603074382}
     audioClip: {fileID: 0}
     correct: 1
-  - text: "ndica que un depredador desconocido est\xE1 alterando sus rutas  de caza."
+  - text: It indicates that an unknown predator is disrupting their hunting routes.
     button: {fileID: 1623976247}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
-  - text: "\xBFQu\xE9 simboliza el comportamiento extra\xF1o de los animales nocturnos?"
+  - text: What does the strange behavior of the nocturnal animals symbolize?
     button: {fileID: 1841183326}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
