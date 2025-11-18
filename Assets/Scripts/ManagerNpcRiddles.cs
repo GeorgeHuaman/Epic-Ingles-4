@@ -85,6 +85,11 @@ public class ManagerNpcRiddles : MonoBehaviour
         currentcorrectAnswers = 0;
     }
 
+    private void OnEnable()
+    {
+        currentcorrectAnswers = 0;
+    }
+
     private void DisableEmpty()
     {
         panel.SetActive(false);
