@@ -353,7 +353,7 @@ MonoBehaviour:
   - text: One could argue that  technological integration  must be cautious to  avoid
       harming natural  systems.
     button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: Technology should  be implemented  immediately,  ignoring natural  concerns.
     button: {fileID: 1623976247}
@@ -744,7 +744,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Buttton
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -771,10 +771,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
-  m_fontSizeBase: 24
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -945,7 +945,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Button
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -972,10 +972,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 26.85
-  m_fontSizeBase: 24
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -1398,11 +1398,11 @@ MonoBehaviour:
       m_Calls: []
   responses:
   - text: That humans fail to grasp the richness of meanings in the nocturnal songs.
-    button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    button: {fileID: 1623976247}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: That humans ignore the songs because they are not interested.
-    button: {fileID: 1623976247}
+    button: {fileID: 603074382}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
   - text: "It means that it\u2019s easy to misinterpret them."
@@ -2036,7 +2036,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &495731843
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2167,11 +2167,11 @@ MonoBehaviour:
       m_Calls: []
   responses:
   - text: A natural phenomenon explained by the resonance of air.
-    button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    button: {fileID: 1623976247}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: Magic that defies the laws of physics.
-    button: {fileID: 1623976247}
+    button: {fileID: 603074382}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
   - text: "What is the \u2018levitation\u2019 of the mountains?"
@@ -2396,8 +2396,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -226, y: 0}
-  m_SizeDelta: {x: 250, y: 100}
+  m_AnchoredPosition: {x: -400, y: 0}
+  m_SizeDelta: {x: 400, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &603074382
 MonoBehaviour:
@@ -3945,10 +3945,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -5368,11 +5368,11 @@ MonoBehaviour:
       m_Calls: []
   responses:
   - text: resonate across Pandora
-    button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    button: {fileID: 1623976247}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: dominate the forest
-    button: {fileID: 1623976247}
+    button: {fileID: 603074382}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
   - text: "\"Our voices  will\u2026\""
@@ -6746,7 +6746,7 @@ MonoBehaviour:
   responses:
   - text: The trees sense a loss of clarity and purpose in language.
     button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: The trees are sick due to a fungus that affects their bark.
     button: {fileID: 1623976247}
@@ -10430,7 +10430,7 @@ MonoBehaviour:
   - text: '"From an ethical  standpoint, I understand  the risks and value  preserving
       the balance of  Pandora."'
     button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: '"I completely reject  your view;  technology is always  better than  tradition."'
     button: {fileID: 1623976247}
@@ -10724,11 +10724,11 @@ MonoBehaviour:
   responses:
   - text: The faster they try to measure and control, the more they distance themselves
       from the true rhythm of life
-    button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    button: {fileID: 1623976247}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: That human technology operates faster than nature.
-    button: {fileID: 1623976247}
+    button: {fileID: 603074382}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
   - text: "What does \u2018Ironically, the faster they count\u2026\u2019 mean?"
@@ -11141,11 +11141,11 @@ MonoBehaviour:
       m_Calls: []
   responses:
   - text: "honor both humans and Na\u2019vi "
-    button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    button: {fileID: 1623976247}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: 'follow only human guidance '
-    button: {fileID: 1623976247}
+    button: {fileID: 603074382}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
   - text: "\"Together, we\u2026\""
@@ -11394,7 +11394,7 @@ MonoBehaviour:
   responses:
   - text: 'protect the balance of nature '
     button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: 'promote technological expansion '
     button: {fileID: 1623976247}
@@ -11747,7 +11747,7 @@ MonoBehaviour:
   responses:
   - text: 'a record of restored  understanding '
     button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: 'a warning to outsiders '
     button: {fileID: 1623976247}
@@ -12069,11 +12069,11 @@ MonoBehaviour:
       m_Calls: []
   responses:
   - text: The spirit of the river is losing its inner harmony.
-    button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    button: {fileID: 1623976247}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: The river is physically blocked by a human construction.
-    button: {fileID: 1623976247}
+    button: {fileID: 603074382}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
   - text: "What does the Tsah\xECk really imply about the state of the river?"
@@ -12477,10 +12477,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
-  m_fontSizeBase: 24
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 10
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -12759,8 +12759,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 304, y: 0}
-  m_SizeDelta: {x: 250, y: 100}
+  m_AnchoredPosition: {x: 400, y: 0}
+  m_SizeDelta: {x: 400, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1623976247
 MonoBehaviour:
@@ -13007,11 +13007,11 @@ MonoBehaviour:
   responses:
   - text: It is essential to acknowledge the  implications of each  choice while
       seeking  collaborative solutions.
-    button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    button: {fileID: 1623976247}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: I fully agree without considering any consequences
-    button: {fileID: 1623976247}
+    button: {fileID: 603074382}
     audioClip: {fileID: 8300000, guid: 21b580ba2a51f1b4988216728209cbed, type: 3}
     correct: 0
   - text: Which sentence combines agreement with nuance and advanced fluency?
@@ -19608,8 +19608,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5, y: 121}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 5, y: 173}
+  m_SizeDelta: {x: 686.264, y: 153.1027}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1841183326
 MonoBehaviour:
@@ -19865,7 +19865,7 @@ MonoBehaviour:
   responses:
   - text: 'harmony comes before progress '
     button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: 'innovation must guide all species '
     button: {fileID: 1623976247}
@@ -20307,7 +20307,7 @@ MonoBehaviour:
   responses:
   - text: It reflects the widespread confusion in communication and meaning on Pandora.
     button: {fileID: 603074382}
-    audioClip: {fileID: 0}
+    audioClip: {fileID: 8300000, guid: 9ecf683e324f5004983e10c8d958c09a, type: 3}
     correct: 1
   - text: It indicates that an unknown predator is disrupting their hunting routes.
     button: {fileID: 1623976247}
